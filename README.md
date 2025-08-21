@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyank Gaur</h1>
 <h3 align="center">"Currently under construction. Like my code"</h3> 
-<img align="right" alt="introvert hu yarr" width="300" height="200"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw3n5Q-3qbVmt071vm5p4MRe&ust=1755787667320000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCDw5XRmY8DFQAAAAAdAAAAABBg">
+<img align="right" alt="Thoda shy hu yarr"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2wkfSJVvalTFNqhIa5niUK&ust=1755831082591000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCUgNHymo8DFQAAAAAdAAAAABAE">
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyank-52&label=Profile%20views&color=0e75b6&style=flat" alt="priyank-52" /> </p>

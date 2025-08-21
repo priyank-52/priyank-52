@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyank Gaur</h1>
 <h3 align="center">"Currently under construction. Like my code"</h3> 
-<img align="right" alt="Thoda shy hu yarr"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw2wkfSJVvalTFNqhIa5niUK&ust=1755831082591000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCUgNHymo8DFQAAAAAdAAAAABAE">
->
+<img align="right" alt="Thoda shy hu yarr" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyank-52&label=Profile%20views&color=0e75b6&style=flat" alt="priyank-52" /> </p>
+<p align="left"> <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="priyank-52" /> </p>
 
 - 🌱 I’m currently learning **Full-stack overflow developer.**
 

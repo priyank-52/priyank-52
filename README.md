@@ -20,3 +20,18 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyank-52&show_icons=true&locale=en&layout=compact" alt="priyank-52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyank-52&" alt="priyank-52" /></p>
+---
+
+## ⚡ Fun Fact
+
+>⚡ Fun Fact I turn coffee ☕ into code 💻 and bugs 🐛 into features 🚀
+>
+>⚡ Fun Fact: I debug faster after midnight 🌙
+>
+⚡ Fun Fact: I enjoy solving DSA problems more than scrolling Instagram 😌
+
+⚡ Fun Fact: If it compiles, I celebrate. If it runs, I party. 🎉  
+
+⚡ Fun Fact: Engineering my future one commit at a time 🚀  
+
+⚡ Fun Fact: I don’t fear bugs… bugs fear my debugger 🐛💀
